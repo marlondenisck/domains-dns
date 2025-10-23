@@ -120,3 +120,5 @@ config-proxy-bak.kwd.inkuai.com
 config-proxy.kwd.inkuai.com
 4j6w6e.foggymorningmist.com
 tp-link.com
+trafficdeposit.com
+bigcdn.cc
