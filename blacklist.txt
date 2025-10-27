@@ -122,3 +122,10 @@ config-proxy.kwd.inkuai.com
 tp-link.com
 trafficdeposit.com
 bigcdn.cc
+api.tracking.al-array.com
+ahcdn.com
+cdn.erocdn.co
+mydaddy.cc
+phncdn.com
+sb-cd.com
+userscontent.net
