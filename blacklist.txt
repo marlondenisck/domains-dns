@@ -167,3 +167,5 @@ az3-api-txpro.kwai-pro.com^$important
 az1-apil2-akpro.kwaipros.com^$important
 2w7msj.emptyfieldgrassm.com^$important
 config-proxy.kwd.100.app^$important
+||erome.com^$important
+||erome.fan^$important
